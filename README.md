@@ -2,8 +2,8 @@
 # DSA Assignment 3
 
 ## Student Details
-- Name: YOUR NAME
-- Register Number: YOUR REGISTER NUMBER
+- Name: D.Janakiraman
+- Register Number: 192524200
 - Course: B.Tech Artificial Intelligence and Data Science
 - Subject: Data Structures and Algorithms
 
